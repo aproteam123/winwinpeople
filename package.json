@@ -5,6 +5,6 @@
     "dev": "vercel dev"
   },
   "dependencies": {
-    "@google/generative-ai": "^0.2.1"
+    "openai": "^4.28.0"
   }
 }
